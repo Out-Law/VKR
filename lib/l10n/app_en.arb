@@ -1,0 +1,36 @@
+  {
+  "signIn" : "Sign In",
+  "enterUsername" : "Enter username",
+  "enterPassword" : "Enter password",
+  "rememberMe" : "Remember me",
+  "forgotPassword" : "Forgot password?",
+  "newUser" : "New user?",
+  "signUp" : "Sign up!",
+  "repeatPassword" : "Repeat password",
+  "register" : "Register",
+  "continueWithoutRegistration" : "Continue without registration",
+  "welcomeToOurTeam" : "Welcome to our team!",
+
+  "welcome" : "Welcome,",
+  "today" : "Today",
+  "distance" : "Distance",
+  "calories" : "Calories",
+  "km" : "km",
+  "kcal" : "kcal",
+  "date" : "Date",
+  "distanceInKm" : "Distance in km",
+  "calories" : "Calories",
+  "speed" : "Speed",
+
+  "settings" : "Settings",
+  "languageSelection" : "Language selection",
+  "customization" : "Customization",
+  "light" : "Light",
+  "dark" : "Dark",
+  "colorStyling" : "Color styling",
+
+  "race" : "Race",
+  "races" : "Races"
+  }
+
+

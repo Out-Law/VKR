@@ -1,0 +1,34 @@
+  {
+  "signIn" : "Войти",
+  "enterUsername" : "Введите логин",
+  "enterPassword" : "Введите пароль",
+  "rememberMe" : "Запомните меня",
+  "forgotPassword" : "Востановить пароль?",
+  "newUser" : "Новый пользователь?",
+  "signUp" : "Зарегестрируйся!",
+  "repeatPassword" : "Повторите пароль",
+  "register" : "Зарегестрироваться",
+  "continueWithoutRegistration" : "Продолжить без регистрации",
+  "welcomeToOurTeam" : "Добро пожаловать в нашу команду!",
+
+  "welcome" : "Добро пожаловать,",
+  "today" : "Сегодня",
+  "distance" : "Растояние",
+  "calories" : "Калории",
+  "km" : "км",
+  "kcal" : "ккал",
+  "date" : "Дата",
+  "distanceInKm" : "Расстояние в км",
+  "calories" : "Калории",
+  "speed" : "Скорость",
+
+  "settings" : "Настройки",
+  "languageSelection" : "Выбор языка",
+  "customization" : "Кастомизация",
+  "light" : "Светлая",
+  "dark" : "Тёмная",
+  "colorStyling" : "Цветовая стилистика",
+
+  "race" : "Забег",
+  "races" : "Забеги"
+  }
